@@ -19,8 +19,7 @@ o The codes should be well commented. Comment effectively so that it is easier t
 understand. For each concept, include a description.
 o You can submit the codes in a zip file on blackboard.
 § ReadMe file: Mention the programming language and compilers used.
-o You can also code your program in GitHub. In the blackboard submit URL to your GitHub
-account.
+o You can also code your program in GitHub. In the blackboard submit URL to your GitHub account.
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #In this project I will be comparing the difference in programming paradigms between Java and C++
